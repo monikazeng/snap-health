@@ -1,8 +1,8 @@
 # .gitignore
 venv/
-data/
-backend_ml/data/food-101.tar.gz
-backend_ml/data/food-101/
+
+food-101/
+food-101.tar.gz
 resource/
 
 # Ignore Python cache files and folders
