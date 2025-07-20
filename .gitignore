@@ -1,0 +1,12 @@
+# .gitignore
+venv/
+data/
+backend_ml/data/food-101.tar.gz
+backend_ml/data/food-101/
+resource/
+
+# Ignore Python cache files and folders
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
